@@ -6,7 +6,8 @@ public class Main {
         new OpCircleCircummatance(),
         new LucasSeries(),
         new SphereArea(),
-        new CircleArea()
+        new CircleArea(),
+        new Fibonacci()
 
     };
 
